@@ -5,4 +5,4 @@ var recipes = {
   salt: '1/4 ts'
 }
 
-console.log(recipes[garlic cloves])
+console.log(recipes[garlic])
