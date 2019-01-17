@@ -10,8 +10,3 @@ function updateObjectWithKeyAndValue(object,key,value) {
   return object
 }
 
-console.log(recipes)
-
-updateObjectWithKeyAndValue(recipes, 'water', '2 ts')
-
-console.log(recipes)
